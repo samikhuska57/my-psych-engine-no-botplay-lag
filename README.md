@@ -17,6 +17,7 @@ same goes for *Lua Scripts*, comment out or delete the line with `LUA_ALLOWED`, 
 
 ## Credits:
 * samikhuska57 - Owner of the no botplay lag Psych Engine
+* Andre Nicholas Jr - Developer
 * Shadow Mario - Programmer
 * Riveren - Artist
 
