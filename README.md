@@ -112,6 +112,6 @@ _____________________________________
 * You can enable "Combo Stacking" in Gameplay Options. This causes the combo sprites to just be one sprite with an animation rather than sprites spawning each note hit.
   
  ## Price:
- * Psych Engine is free Friday Night Funkin game and we actually added no botplay lag for free so u dont need to pay a penny
- * Source code is free too with -Project.xml- u can compile for free
+ * Psych Engine is free Friday Night Funkin game and we actually added no botplay lag for free so u dont need to pay a penny.
+ * Source code is free too with -Project.xml- u can compile for free.
   
