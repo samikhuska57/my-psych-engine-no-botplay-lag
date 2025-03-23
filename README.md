@@ -1,5 +1,5 @@
 # Friday Night Funkin' - Random Engine No botplay lag
-Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
+Psych Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
 
 ## Installation:
 
@@ -101,6 +101,7 @@ _____________________________________
 ## Options menu:
 * You can change Note colors, Delay and Combo Offset, Controls and Preferences there.
  * On Preferences you can toggle Downscroll, Middlescroll, Anti-Aliasing, Framerate, Low Quality, Note Splashes, Flashing Lights, etc.
+ * Optimization u can change a optimization to get better performance and less botplay lag, Rendering settings u can record a video (no sound)
 
 ## Other gameplay features:
 * When the enemy hits a note, their strum note also glows.
@@ -109,3 +110,8 @@ _____________________________________
 * You can reset your Score on Freeplay/Story Mode by pressing Reset button.
 * You can listen to a song or adjust Scroll Speed/Damage taken/etc. on Freeplay by pressing Space.
 * You can enable "Combo Stacking" in Gameplay Options. This causes the combo sprites to just be one sprite with an animation rather than sprites spawning each note hit.
+  
+ ## Price:
+ * Psych Engine is free Friday Night Funkin game and we actually added no botplay lag for free so u dont need to pay a penny
+ * Source code is free too with -Project.xml- u can compile for free
+  
